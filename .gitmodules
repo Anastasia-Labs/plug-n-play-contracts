@@ -1,0 +1,9 @@
+[submodule "linear-vesting"]
+	path = linear-vesting
+	url = https://github.com/Anastasia-Labs/linear-vesting.git
+[submodule "yieldfarming"]
+	path = yieldfarming
+	url = https://github.com/Anastasia-Labs/yieldfarming.git
+[submodule "direct-order-contracts"]
+	path = direct-order-contracts
+	url = https://github.com/Anastasia-Labs/direct-order-contracts.git
