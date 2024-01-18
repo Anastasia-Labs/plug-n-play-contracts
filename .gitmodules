@@ -1,9 +1,0 @@
-[submodule "linear-vesting"]
-	path = linear-vesting
-	url = https://github.com/Anastasia-Labs/linear-vesting.git
-[submodule "direct-offer"]
-	path = direct-offer
-	url = https://github.com/Anastasia-Labs/direct-offer.git
-[submodule "single-asset-staking"]
-	path = single-asset-staking
-	url = https://github.com/Anastasia-Labs/single-asset-staking.git
